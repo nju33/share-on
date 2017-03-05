@@ -1,4 +1,4 @@
-# share-on
+<h1><img src="https://github.com/nju33/share-on/blob/master/app/icons/icon.iconset/icon_32x32@2x.png?raw=true" width=30>&nbsp;Share On</h1>
 
 > An electron-vue project
 
