@@ -36,7 +36,7 @@ function createTray() {
     return tray;
   }
 
-  tray = new Tray(path.join(__dirname, 'images/tray.png'));
+  tray = new Tray(path.join(__dirname, 'images/trayTemplate.png'));
   tray.setToolTip('Share On');
   tray.setContextMenu(Menu.buildFromTemplate([
     {

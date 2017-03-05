@@ -4,6 +4,8 @@
   "description": "An electron-vue project",
   "main": "./dist/main.js",
   "dependencies": {
+    "form-data": "^2.1.2",
+    "got": "^6.7.1",
     "menubar": "^5.2.3",
     "vue": "^2.1.10",
     "vue-electron": "^1.0.6"
