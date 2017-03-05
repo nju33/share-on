@@ -10,7 +10,9 @@ When you start up, icons like ![tray dark](https://github.com/nju33/share-on/blo
 
 And I just introduce it.
 
+## Download
 
+From the [release page](https://github.com/nju33/share-on/releases/latest)
 
 ## Build Setup
 
