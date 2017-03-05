@@ -5,7 +5,7 @@ const path = require('path')
 let config = {
   // Name of electron app
   // Will be used in production builds
-  name: 'share-on',
+  name: 'Share On',
 
   // webpack-dev-server port
   port: 9080,
