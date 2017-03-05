@@ -40,10 +40,7 @@ function createTray() {
   tray.setToolTip('Share On');
   tray.setContextMenu(Menu.buildFromTemplate([
     {
-      label: 'Quit',
-      click() {
-        app.quit();
-      }
+      role: 'quit'
     }
   ]))
   tray.on('drop-files', (e, files) => {
